@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1f78ab7c4ef19f43bb931e7f6b5998f, type: 3}
+  m_Name: Daily
+  m_EditorClassIdentifier: 
+  Monster_Kill: 78
+  Elite_Kill: 0
+  Boss_Kill: 0
+  Reinforcement_Count: 3
+  Gacha_Count: 20
+  Game_Start_Count: 1
+  Attendance_Count: 4
+  Payment_Count: 3
+  Advertisement_Count: 0
+  Cash_Gacha_Count: 10

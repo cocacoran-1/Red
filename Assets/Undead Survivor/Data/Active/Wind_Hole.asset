@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fc72b65143b5747b28b2b45a20e262, type: 3}
+  m_Name: Wind_Hole
+  m_EditorClassIdentifier: 
+  skillCategory: 0
+  skillType: 5
+  skillId: 5
+  skillName: Wind Hole
+  DamageDesc: Damage +
+  AddRangeDesc: Size +
+  AddBulletDesc: Bullet +
+  AddSpeedDesc: Attack Speed+
+  AddTimeDesc: Duration +
+  AddCloneDesc: Clone Bullet +
+  AddDefenseDesc: Defense +
+  ItemDesc: 
+  SkillICon: {fileID: -363621432, guid: cea7f2e79d0a27b45a27c14218297353, type: 3}
+  maxLevel: 7

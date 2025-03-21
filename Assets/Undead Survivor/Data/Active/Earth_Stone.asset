@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47fc72b65143b5747b28b2b45a20e262, type: 3}
+  m_Name: Earth_Stone
+  m_EditorClassIdentifier: 
+  skillCategory: 0
+  skillType: 19
+  skillId: 18
+  skillName: Rolling Boulder
+  DamageDesc: Damage +
+  AddRangeDesc: Size +
+  AddBulletDesc: Bullet +
+  AddSpeedDesc: Attack Speed+
+  AddTimeDesc: Duration +
+  AddCloneDesc: Clone Bullet +
+  AddDefenseDesc: Defense +
+  ItemDesc: 
+  SkillICon: {fileID: -1490727565, guid: 87403128aa0e2c949a0b82901265ac4a, type: 3}
+  maxLevel: 7

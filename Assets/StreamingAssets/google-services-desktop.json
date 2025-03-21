@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356881476061",
+    "firebase_url": "https://spirit-ff15d-default-rtdb.firebaseio.com",
+    "project_id": "spirit-ff15d",
+    "storage_bucket": "spirit-ff15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356881476061:android:1f27f5cb21d4aec04bee34",
+        "android_client_info": {
+          "package_name": "com.Spirit.SpiritDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356881476061-tp54vi5hbs5bo2s19iuj4umgu3113v5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO753TIKKOTnHsyvyu-Ugy04ePnNConVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356881476061-grh5p6r0a8fa8oftshhegekfoh29kdjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356881476061-kd953mp5sfe7hpf2v6shb8derlsl50i4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Sprit.Spiritdemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

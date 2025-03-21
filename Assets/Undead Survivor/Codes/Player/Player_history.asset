@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8bc9e126732514e97dbf3d73eeffe7, type: 3}
+  m_Name: Player_history
+  m_EditorClassIdentifier: 
+  Monster_Kill: 120000
+  Elite_Kill: 100
+  Boss_Kill: 0
+  Reinforcement_Count: 0
+  Gacha_Count: 0
+  Weapon_Count: 0
+  Defense_Count: 0
+  Gold_Count: 0
+  Cash_Count: 0
+  Reinforcement_Count_Goal: 1
+  Gacha_Count_Goal: 1
+  Weapon_Count_Goal: 5
+  Defense_Count_Goal: 10
+  Gold_Count_Goal: 100
+  Cash_Count_Goal: 100
+  Monster_Kill_Goal: 130000
+  Elite_Kill_Goal: 120
+  Boss_Kill_Goal: 1

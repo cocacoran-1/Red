@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 595537e5e229e874ab239de56d6672b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - numberPrefab: {fileID: 4691818872309173070, guid: 9dbe9df319c06a8459eca719f9a52a71, type: 3}
+  - DotPrefab: {fileID: 4691818872309173070, guid: efc63bfe7a1d587478b6e969d42ba9b8, type: 3}
+  - target: {instanceID: 0}
+  - exp: {instanceID: 0}
+  - highExp: {instanceID: 0}
+  - coin: {instanceID: 0}
+  - upgrade: {instanceID: 0}
+  - box: {instanceID: 0}
+  - EnemyAttackCapsule: {instanceID: 0}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

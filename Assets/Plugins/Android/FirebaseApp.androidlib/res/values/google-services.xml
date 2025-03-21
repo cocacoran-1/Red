@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://spirit-ff15d-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">356881476061</string>
+  <string name="google_storage_bucket" translatable="false">spirit-ff15d.appspot.com</string>
+  <string name="project_id" translatable="false">spirit-ff15d</string>
+  <string name="google_api_key" translatable="false">AIzaSyDO753TIKKOTnHsyvyu-Ugy04ePnNConVE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDO753TIKKOTnHsyvyu-Ugy04ePnNConVE</string>
+  <string name="google_app_id" translatable="false">1:356881476061:android:1f27f5cb21d4aec04bee34</string>
+  <string name="default_web_client_id" translatable="false">356881476061-tp54vi5hbs5bo2s19iuj4umgu3113v5u.apps.googleusercontent.com</string>
+</resources>
